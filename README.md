@@ -20,7 +20,7 @@ The Inventory Management System is a command-line application built in Python th
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone 
    cd InventorySystemArchitectureProblem
    ```
 
@@ -60,8 +60,6 @@ python inventory_cli.py
 ## Logging
 The application logs important events and errors to `inventory_system.log`, which can be useful for monitoring and debugging.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
