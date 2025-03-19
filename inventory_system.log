@@ -1,0 +1,4 @@
+2025-03-19 16:51:46,110 - inventory_system - INFO - Creating new database file: inventory.db
+2025-03-19 16:51:46,230 - inventory_system - INFO - Database schema created successfully
+2025-03-19 16:51:46,230 - inventory_system - INFO - Inventory Management System initialized
+2025-03-19 16:52:31,279 - inventory_system - INFO - Inventory Management System closed
